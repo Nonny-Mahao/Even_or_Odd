@@ -28,7 +28,7 @@ It was built using **HTML** and **JavaScript**.
 Contributions are welcome. To contribute you can open a new issue or do a pull request.
 
 
-### Author : **[Nonny Mahao](https://github.com/Nonny-Mahao)** a
+### Author : **[Nonny Mahao](https://github.com/Nonny-Mahao)** 
 
 ### Licence
 This project is [MIT](https://www.google.com) licensed.
